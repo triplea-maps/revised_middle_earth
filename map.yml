@@ -1,0 +1,5 @@
+map_name: revised_middle_earth
+games:
+- {game_name: Revised Middle Earth, file_name: revised_middle_earth.xml}
+- {game_name: Revised Middle Earth, file_name: revised_middle_earth.xml}
+version: 0
